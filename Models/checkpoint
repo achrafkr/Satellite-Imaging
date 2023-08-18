@@ -1,0 +1,2 @@
+model_checkpoint_path: "baseline_model_30_epochs"
+all_model_checkpoint_paths: "baseline_model_30_epochs"
