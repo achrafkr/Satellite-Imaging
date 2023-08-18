@@ -2,12 +2,12 @@
 
 ![Python version](https://img.shields.io/badge/python-3.9.5-blue)
 ![tf version](https://img.shields.io/badge/tensorflow-2.5.0%20-orange)
-![scikit-learn version](https://img.shields.io/badge/scikit-1.2.1-learn%20-yellow)
-![shapely version](https://img.shields.io/badge/matplotlib-2.0.1%20-green)
-![numpy version](https://img.shields.io/badge/matplotlib-1.22.4%20-blue)
+![scikit-learn version](https://img.shields.io/badge/scikit-learn-1.2.1%20-yellow)
+![shapely version](https://img.shields.io/badge/shapely-2.0.1%20-green)
+![numpy version](https://img.shields.io/badge/numpy-1.22.4%20-blue)
 ![sns version](https://img.shields.io/badge/seaborn-0.12.2%20-blueviolet)
 ![plt version](https://img.shields.io/badge/matplotlib-3.6.2%20-informational)
-![opencv version](https://img.shields.io/badge/matplotlib-4.8.0-red)
+![opencv version](https://img.shields.io/badge/opencv-4.8.0-red)
 
 
 ## Table of Contents
