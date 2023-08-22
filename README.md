@@ -1,5 +1,9 @@
 # Satellite-Imaging
 
+<img 
+src="https://media2.giphy.com/media/xT5LMBATJuDO48jD44/giphy.gif?cid=ecf05e47hs0dq94tfm678gblgs82ky9jaq8ibgd5wm2s75e3&ep=v1_gifs_search&rid=giphy.gif" 
+width="520" height="320">
+
 ![Python version](https://img.shields.io/badge/python-3.9.5-blue)
 ![tf version](https://img.shields.io/badge/tensorflow-2.5.0%20-orange)
 ![scikit-learn version](https://img.shields.io/badge/scikit--learn-1.2.1-yellow)
