@@ -16,4 +16,4 @@
 3. Project Status
 
 ## 1. About
-This repository gathers a series of small projects around Satellite Imaging. The main focus is on data analysis and the design of AI algorithms for classification, clustering or prediction of the variables depending on the purpose of the project. 
+This repository gathers a series of small projects around Satellite Imaging. The main focus is on data analysis and the design of AI algorithms for classification, clustering or forecasting, depending on the purpose of the project. 
