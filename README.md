@@ -1,8 +1,5 @@
 # Satellite-Imaging
 
-<img 
-src="https://media2.giphy.com/media/xT5LMBATJuDO48jD44/giphy.gif?cid=ecf05e47hs0dq94tfm678gblgs82ky9jaq8ibgd5wm2s75e3&ep=v1_gifs_search&rid=giphy.gif" 
-width="520" height="320">
 
 ![Python version](https://img.shields.io/badge/python-3.9.5-blue)
 ![tf version](https://img.shields.io/badge/tensorflow-2.5.0%20-orange)
@@ -21,3 +18,13 @@ width="520" height="320">
 
 ## 1. About
 This repository gathers a series of small projects around Satellite Imaging. The main focus is on data analysis and the design of AI algorithms for classification, clustering or forecasting, depending on the purpose of the project. 
+
+## 2. Requirements
+[coming soon...]
+
+## 3. Project Status
+[coming soon...]
+
+<img 
+src="https://media2.giphy.com/media/xT5LMBATJuDO48jD44/giphy.gif?cid=ecf05e47hs0dq94tfm678gblgs82ky9jaq8ibgd5wm2s75e3&ep=v1_gifs_search&rid=giphy.gif" 
+width="520" height="320">
