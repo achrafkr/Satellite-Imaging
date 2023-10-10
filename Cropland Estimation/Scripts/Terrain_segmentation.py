@@ -45,16 +45,14 @@ def segment_image(image_object, n_clusters, method = 'opencv', eps = 0.5, thresh
 
 
 if __name__ == "__main__":
-    
-    import matplotlib.pyplot as plt
-    
+        
     path_test = "../Data/EuroSat/2750/Test/"
     n_clusters = 3
     t_method = 'binary_inv' # threshold method
     image_filename = "AnnualCrop/AnnualCrop_1275.jpg"
     
     s_img, c_img, ctrs = segment_image(path_test + image_filename, n_clusters, t_method = t_method)
-    
+
     
     fig, ax = plt.subplots(1, 3, figsize = (16, 4))
 
@@ -62,11 +60,9 @@ if __name__ == "__main__":
     ax[0].set_title('Original image')
     ax[0].axis('off')
     
-    
     ax[1].imshow(s_img)
     ax[1].set_title('Segmented image')
     ax[1].axis('off')
-    
     
     ax[2].imshow(c_img.astype(np.uint8))
     ax[2].set_title('Segmented image contour')
