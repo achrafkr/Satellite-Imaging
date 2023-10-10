@@ -132,7 +132,7 @@ def baseline_model(input_shape, num_classes):
     outputs = tf.keras.layers.Dense(units, activation=activation)(x)
     return tf.keras.Model(inputs, outputs)
 
-# Clustering
+# Segmentation
 
 def clustering_km(image, n_clusters):
     img = image.reshape((-1, 1))
