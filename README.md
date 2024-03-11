@@ -38,9 +38,11 @@ It is advisable to check for compatibility between certain versions of the libra
 ## 3. Project Status
 1. Cropland Estimation:
     - Scripts have been completed.
-    - The annotated notebook for image classification is now 90% complete.
-    - The work on the annotated notebook for image segmentation is now 70% complete.
-    - A third notebook presenting a real world example is expected.
+    - The annotated notebook for image classification is now 100% complete.
+    - The work on the annotated notebook for image segmentation is now 100% complete.
+    - A third notebook presenting a real world example is now 90% complete.
+
+2. TBD
 
 [Ongoing...]
 
