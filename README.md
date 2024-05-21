@@ -27,11 +27,11 @@ The projects are separated into individual directories and mostly coded in Pytho
 Since data is collected from a variety of sources, a specific folder for the data will be created for every project. In recognition of the work done by the community, and to facilitate access to the data for future efforts, all sources will be acknowledged and source links will be provided when possible. Note, however, that some datasets are processed using multiple data sources. In such cases, the sources shall be disclosed, with varying degrees of detail. Additionally, we reserve the right to disclose the processing code when relevant to the project. It will also be clarified if the used data was artificially produced.
 
 ## 2. Requirements
-For the correct execution and reproducibility of the notebooks, we recommend the use of the Anaconda distribution system.
+For the correct execution and reproducibility of the notebooks, we recommend the use of the [Anaconda](https://www.anaconda.com/download) distribution system.
 
 System requirements are generally basic and in specific cases where GPUs are used, it may be possible to run the project code using either the CPU or on a cloud environment in case the CPU becomes insufficient.
 
-The required libraries are listed at the beginning of each notebook. We also recommend installing OpenCV, Tensorflow and Pytorch libraries.
+The required libraries are listed at the beginning of each notebook. We also recommend installing [`OpenCV`](https://pypi.org/project/opencv-python/), [`Tensorflow`](https://docs.anaconda.com/free/working-with-conda/applications/tensorflow/) and [`Pytorch`](https://pytorch.org/get-started/locally/#windows-installation) libraries.
 
 It is advisable to check for compatibility between certain versions of the libraries used in each project, with particular attention to numpy, matplotlib and tensorflow.
 
